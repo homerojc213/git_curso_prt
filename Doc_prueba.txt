@@ -1,3 +1,5 @@
 Fundamentos git hub 2092026
 
 con al nueva rama genero nueva modificacion
+
+Rsolviendo bug
